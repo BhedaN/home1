@@ -1,0 +1,16 @@
+html
+{
+	overflow-y: hidden
+}
+body
+{
+	background-image: url("Images/Background2.jpg");
+	background-repeat: no-repeat;
+}
+
+#resourceimage
+{
+	position: relative;
+	left: 60%;
+	top: -40px;
+}
